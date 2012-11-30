@@ -20,7 +20,7 @@ have is:
 
     <?php
 
-    require './facebook.php';
+    require './tibetanvirtualkeyboard.php';
 
     $facebook = new Facebook(array(
       'appId'  => 'YOUR APP ID',
