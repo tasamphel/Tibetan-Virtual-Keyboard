@@ -1,5 +1,5 @@
 <?php
-/**AUTHOR TASHIS SAMPHEL *****/
+/**AUTHOR TASHI SAMPHEL *****/
 /**
  * @owner naitik
  * @emails naitik@facebook.com, platform-tests@lists.facebook.com
