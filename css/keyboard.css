@@ -1,5 +1,9 @@
-@charset "utf-8";
-/* CSS Document */
+ @font-face {
+	font-family: "Bodyig";
+	src:url(../fonts/tcrc.ttf);
+	
+}
+
 #keyboardInputMaster {
   position:absolute;
   border-top:1px solid #eeeeee;
@@ -197,8 +201,7 @@
 }
 
 #textfield {
-font:"Microsoft Himalaya","TCRC Youtso Unicode";
-font-size:26px;
+font:24px 'Bodyig', 'Microsoft Himalaya', Arial, Helvetica, sans-serif; 
 }
 #h2 {
  font:Verdana, Arial, Helvetica, sans-serif;
@@ -206,7 +209,10 @@ font-size:26px;
  color:#663300;
  }
 #h3 {
- font:"Microsoft Himalaya","TCRC Youtso Unicode";
- font-size:18px;
+ font:20px 'Bodyig', 'Microsoft Himalaya', Arial, Helvetica, sans-serif; 
+ color:#660033;
+ }
+ .tibetan {
+ font:20px 'Bodyig', 'Microsoft Himalaya', Arial, Helvetica, sans-serif; 
  color:#660033;
  }

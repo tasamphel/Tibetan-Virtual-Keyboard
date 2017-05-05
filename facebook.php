@@ -1,3 +1,4 @@
+
 <?php
 
 if (!function_exists('curl_init')) {
@@ -826,7 +827,7 @@ class Facebook
             'notes.get' => 1,
             'notifications.get' => 1,
             'pages.getinfo' => 1,
-            'pages.isadmin' => 1,
+            'pages.istibet' => 1,
             'pages.isappadded' => 1,
             'pages.isfan' => 1,
             'permissions.checkavailableapiaccess' => 1,

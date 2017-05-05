@@ -1,0 +1,131 @@
+[08-Nov-2010 06:14:16] PHP Warning:  require_once(facebook/facebook.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/tibetweb/public_html/facebook/index.php on line 7
+[08-Nov-2010 06:14:16] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'facebook/facebook.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tibetweb/public_html/facebook/index.php on line 7
+[09-Nov-2010 22:08:55] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/magickwand.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/magickwand.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Nov-2010 22:08:59] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/imagick.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/imagick.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Nov-2010 22:08:59] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Nov-2010 22:08:59] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/pdo_sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/pdo_sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Nov-2010 22:08:59] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Nov-2010 22:08:59] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Nov-2010 22:08:59] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/ixed.5.2.lin' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/ixed.5.2.lin: cannot open shared object file: No such file or directory in Unknown on line 0
+[11-Nov-2010 09:35:41] PHP Fatal error:  Uncaught CurlException: 28: Connection time-out
+  thrown in /home/tibetweb/public_html/facebook/facebook.php on line 622
+[18-Nov-2010 22:47:22] PHP Fatal error:  Uncaught CurlException: 52: Empty reply from server
+  thrown in /home/tibetweb/public_html/facebook/facebook.php on line 622
+[10-Jan-2011 10:15:08] PHP Fatal error:  Uncaught CurlException: 56: SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+  thrown in /home/tibetweb/public_html/facebook/facebook.php on line 622
+[13-Jan-2011 15:31:58] PHP Fatal error:  Uncaught CurlException: 28: SSL connection timeout
+  thrown in /home/tibetweb/public_html/facebook/facebook.php on line 622
+[02-Apr-2011 19:21:05] PHP Fatal error:  Uncaught CurlException: 28: connect() timed out!
+  thrown in /home/tibetweb/public_html/facebook/facebook.php on line 622
+[11-Aug-2011 12:49:23] PHP Fatal error:  Uncaught CurlException: 56: SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+  thrown in /home/tibetweb/public_html/facebook/facebook.php on line 622
+[22-Aug-2011 21:27:50] PHP Fatal error:  Uncaught CurlException: 28: connect() timed out!
+  thrown in /home/tibetweb/public_html/facebook/facebook.php on line 622
+[21-May-2012 11:28:49] PHP Fatal error:  Uncaught CurlException: 28: connect() timed out!
+  thrown in /home/tibetweb/public_html/facebook/facebook.php on line 622
+[27-Jun-2012 06:07:36] PHP Warning:  require_once(facebook/facebook.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/tibet/public_html/facebook/index.php on line 7
+[27-Jun-2012 06:07:36] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'facebook/facebook.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tibet/public_html/facebook/index.php on line 7
+[04-Dec-2012 04:39:33] PHP Warning:  include_once(analyticstracking.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/tibet/public_html/facebook/facebook.php on line 1
+[04-Dec-2012 04:39:33] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'analyticstracking.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tibet/public_html/facebook/facebook.php on line 1
+[18-Jan-2014 20:18:06] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[19-Jan-2014 09:23:17] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[20-Jan-2014 19:42:43] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[20-Jan-2014 19:50:35] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[21-Jan-2014 01:01:45] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[21-Jan-2014 01:08:46] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[21-Jan-2014 15:20:08] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[21-Jan-2014 19:02:48] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[22-Jan-2014 23:42:57] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[23-Jan-2014 19:49:13] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[23-Jan-2014 23:27:06] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[24-Jan-2014 20:06:54] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[24-Jan-2014 23:14:45] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[25-Jan-2014 20:52:24] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[26-Jan-2014 06:20:42] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[26-Jan-2014 12:15:38] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[26-Jan-2014 17:44:14] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[26-Jan-2014 22:35:35] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[27-Jan-2014 01:23:45] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[27-Jan-2014 05:09:38] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[27-Jan-2014 20:08:10] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[28-Jan-2014 08:51:35] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[28-Jan-2014 10:13:21] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[28-Jan-2014 12:16:50] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[28-Jan-2014 17:29:25] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[29-Jan-2014 05:12:10] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[29-Jan-2014 06:08:31] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[29-Jan-2014 06:23:15] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[31-Jan-2014 06:07:16] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[01-Feb-2014 00:46:17] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[01-Feb-2014 12:55:53] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[02-Feb-2014 12:28:28] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[03-Feb-2014 02:36:23] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[03-Feb-2014 03:10:34] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[03-Feb-2014 04:36:19] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[03-Feb-2014 07:49:42] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[03-Feb-2014 08:18:00] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[03-Feb-2014 08:18:31] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[03-Feb-2014 08:19:37] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[03-Feb-2014 09:01:37] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[03-Feb-2014 09:34:57] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[03-Feb-2014 09:35:14] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[03-Feb-2014 16:47:24] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[03-Feb-2014 16:47:25] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[04-Feb-2014 18:06:55] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[05-Feb-2014 08:50:08] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[06-Feb-2014 06:12:45] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[06-Feb-2014 08:11:11] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[06-Feb-2014 08:11:23] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[06-Feb-2014 08:11:31] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544
+[06-Feb-2014 08:14:08] PHP Fatal error:  Uncaught OAuthException: Error validating application. Application has been deleted.
+  thrown in /home/tibet/public_html/facebook/facebook.php on line 544

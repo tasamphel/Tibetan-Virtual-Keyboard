@@ -1,6 +1,9 @@
 <?php
-/**AUTHOR TASHI SAMPHEL *****/
-/**Date: 25/03/2014 ******/
+
+/**
+ * @owner naitik
+ * @emails naitik@facebook.com, platform-tests@lists.facebook.com
+ */
 
 class FacebookTest extends PHPUnit_Framework_TestCase
 {
